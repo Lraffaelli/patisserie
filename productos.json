@@ -1,0 +1,67 @@
+ [
+        {
+            "imagen":"./src/img/cake_1.jpg",
+            "nombre":"Torta de chocolate",
+            "descripcion":"Torta de chocolate de 14 porciones rellena con dulce de leche",
+            "precio": 1450,
+            "id":1,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_2.jpg",
+            "nombre":"Torta de Frutillas",
+            "descripcion":"Torta de Frutillas de 14 porciones rellena con crema chantilly",
+            "precio": 1750,
+            "id":2,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_3.jpg",
+            "nombre":"Torta de almendras",
+            "descripcion":"Torta de almendras de 18 porciones rellena con crema de almendras",
+            "precio": 2350,
+            "id":3,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_4.jpg",
+            "nombre":"Tarta de manzanas",
+            "descripcion":"Tarta de manzanas de 12 porciones rellena con manzanas y jalea",
+            "precio": 1450,
+            "id":1,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_5.jpg",
+            "nombre":"Lemon Pie",
+            "descripcion":"Tarta Lemon Pie de 14 porciones rellena con curt de limon y cubierta con merengue italiano",
+            "precio": 1850,
+            "id":5,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_6.jpg",
+            "nombre":"Torta Selva Negra",
+            "descripcion":"Torta de chocolate de 14 porciones rellena con dulce de leche, crema chantilly y cerezas",
+            "precio": 2350,
+            "id":6,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_7.jpg",
+            "nombre":"Torta de  mouse chocolate",
+            "descripcion":"Torta de mouse de 3 chocolates de 14 porciones cubierta con escamas de chocolate amargo",
+            "precio": 1950,
+            "id":7,
+            "cantidad":1        
+        },
+        {
+            "imagen":"./src/img/cake_8.jpg",
+            "nombre":"Chocotorta",
+            "descripcion":"Torta de chocolinas de 14 porciones rellena con dulce de leche y crema",
+            "precio": 1700,
+            "id":8,
+            "cantidad":1        
+        }
+
+    ]
